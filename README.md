@@ -1,2 +1,2 @@
 # Python-Course
-Python Course for Beginners - Full Course
+Python for Beginners - Full Course
